@@ -26,7 +26,7 @@ OOP School Library is a tool to record what books are in the library and who bor
   - Add new students or teachers
   - Add new books.
   - Save records of who borrowed a given book and when.
- 
+
 
 
 ## 🛠 Built With <a name="built-with"></a>
