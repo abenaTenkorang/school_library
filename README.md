@@ -8,7 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)a
+  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 - [👥 Authors](#authors)
@@ -26,7 +26,7 @@ OOP School Library is a tool to record what books are in the library and who bor
   - Add new students or teachers
   - Add new books.
   - Save records of who borrowed a given book and when.
-  - And all of this will be built in a beautiful and well-organized way!
+ 
 
 
 ## 🛠 Built With <a name="built-with"></a>
