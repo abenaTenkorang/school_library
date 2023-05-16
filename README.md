@@ -35,8 +35,12 @@ Ruby
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a> 
-  - Add class for Person
-   - Add Student and Teacher classes that inherits from person
+  
+   - Create Nameable
+   - Turn Person class to Nameable
+   - Prepare decorator
+   - Prepare CapitalizeDecorator and TrimmerDecorator
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,10 +88,10 @@ Install this project with:
 
 ### Future Features <a name="future-features"></a> 
  
-   - Create Nameable
-   - Turn Person class to Nameable
-   - Prepare decorator
-   - Prepare CapitalizeDecorator and TrimmerDecorator
+- Create a class Classroom
+- Create the has-many/belongs-to relationship between Classroom and Student.
+- Create a class Book
+- Create a class Rental
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
