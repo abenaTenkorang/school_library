@@ -35,13 +35,12 @@ Ruby
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a> 
-  
-   - Create Nameable
-   - Turn Person class to Nameable
-   - Prepare decorator
-   - Prepare CapitalizeDecorator and TrimmerDecorator
-
-
+ 
+   - Create a class Classroom
+   - Create the has-many/belongs-to relationship between Classroom and Student.
+   - Create a class Book
+   - Create a class Rental
+   - Create the many-to-many (also has-many-through) relationship between Person and Book using the intermediate class Rental
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,10 +87,9 @@ Install this project with:
 
 ### Future Features <a name="future-features"></a> 
  
-- Create a class Classroom
-- Create the has-many/belongs-to relationship between Classroom and Student.
-- Create a class Book
-- Create a class Rental
+
+   - Create a app.rb file that will serve as your console app entry-point.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
