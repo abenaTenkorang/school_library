@@ -8,7 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)a
+  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 - [👥 Authors](#authors)
@@ -35,12 +35,9 @@ Ruby
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a> 
-  
-   - Create Nameable
-   - Turn Person class to Nameable
-   - Prepare decorator
-   - Prepare CapitalizeDecorator and TrimmerDecorator
 
+    - Create a app.rb file that will serve as your console app entry-point.
+    - this will be a method called main that is invoked at the end of your file
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,10 +85,7 @@ Install this project with:
 
 ### Future Features <a name="future-features"></a> 
  
-- Create a class Classroom
-- Create the has-many/belongs-to relationship between Classroom and Student.
-- Create a class Book
-- Create a class Rental
+- optimization of the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
