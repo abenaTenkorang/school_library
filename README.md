@@ -26,7 +26,7 @@ OOP School Library is a tool to record what books are in the library and who bor
   - Add new students or teachers
   - Add new books.
   - Save records of who borrowed a given book and when.
-  - And all of this will be built in a beautiful and well-organized way!
+
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -85,7 +85,11 @@ Install this project with:
 
 ### Future Features <a name="future-features"></a> 
  
+
 - optimization of the app
+
+
+   - Create a app.rb file that will serve as your console app entry-point.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
