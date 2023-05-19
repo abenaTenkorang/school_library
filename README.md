@@ -88,9 +88,6 @@ Install this project with:
 
 - optimization of the app
 
-
-   - Create a app.rb file that will serve as your console app entry-point.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
