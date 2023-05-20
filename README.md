@@ -35,12 +35,10 @@ Ruby
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a> 
- 
-   - Create a class Classroom
-   - Create the has-many/belongs-to relationship between Classroom and Student.
-   - Create a class Book
-   - Create a class Rental
-   - Create the many-to-many (also has-many-through) relationship between Person and Book using the intermediate class Rental
+
+    - Create a app.rb file that will serve as your console app entry-point.
+    - this will be a method called main that is invoked at the end of your file
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,8 +86,7 @@ Install this project with:
 ### Future Features <a name="future-features"></a> 
  
 
-   - Create a app.rb file that will serve as your console app entry-point.
-
+- optimization of the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
